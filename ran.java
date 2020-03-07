@@ -4,4 +4,4 @@ public class ran{
         Random rd=new Random();
         System.out.println(rd.nextInt(41)+10);
     }
-}// answer random pick from 0 to 51.
+}// answer random pick from 0 to 40 and add 10.
